@@ -12,6 +12,7 @@ img {
 }
 .cardLink:hover{
     text-decoration: none;
+    
 }
 
 /*--------------------------------------------------------------
@@ -280,7 +281,7 @@ a:hover, a:active {
 
 .hero-content-overlay h4 {
     margin: 0;
-    font-size: 46px;
+    font-size: 38px;
     font-weight: 600;
 }
 
@@ -364,7 +365,7 @@ a:hover, a:active {
     }
 
     .hero-content-overlay h4 {
-        font-size: 32px;
+        font-size: 28px;
     }
 
     .hero-content-overlay p {
@@ -378,11 +379,11 @@ a:hover, a:active {
 
 @media screen and (max-width: 992px){
     .hero-content-overlay h1 {
-        font-size: 48px;
+        font-size: 40px;
     }
 
     .hero-content-overlay h4 {
-        font-size: 22px;
+        font-size: 15px;
     }
 
     .hero-content-overlay p,
