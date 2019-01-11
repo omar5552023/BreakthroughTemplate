@@ -44,8 +44,9 @@ img {
 #footerTitle ::before{
     background: aliceblue;
 }
-
-
+p{
+    color: #595858;
+}
 
 /*--------------------------------------------------------------
 # Links
@@ -1162,8 +1163,8 @@ ul.tabs-nav .tab-nav.active {
 .single-page .page-header {
     position: relative;
     z-index: 99;
-    padding-top: 100px;
-    padding-bottom: 72px;
+    padding-top: 80px;
+    padding-bottom: 52px;
     background-size: cover !important;
 }
 
@@ -1299,7 +1300,7 @@ ul.tabs-nav .tab-nav.active {
 }
 
 .help-us {
-    padding: 70px 0 96px;
+    padding: 30px 0 76px;
     background: #ff3700;
 }
 
