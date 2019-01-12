@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700');
+@import url(http://fonts.googleapis.com/earlyaccess/droidarabickufi.css);
+@import url('https://fonts.googleapis.com/css?family=Cairo');
 
 body {
     color: #262626;
@@ -46,6 +48,16 @@ img {
 }
 p{
     color: #595858;
+    font-family: 'Droid Arabic Kufi', 'Cairo', san-serif;
+
+}
+.center{
+    text-align: center;
+}
+.description{
+    font-size: 11px;
+    direction: rtl;
+    text-align: right;
 }
 
 /*--------------------------------------------------------------
